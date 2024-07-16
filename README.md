@@ -1,6 +1,6 @@
 # real-world-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Deployed app: https://real-world-vue-3-me1e.onrender.com/
 
 ## Recommended IDE Setup
 
